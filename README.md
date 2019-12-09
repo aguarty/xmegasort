@@ -1,4 +1,4 @@
-# Xmegasort
+# Xmegasort [![Build Status](https://travis-ci.org/aguarty/xmegasort.svg?branch=master)](https://travis-ci.org/aguarty/xmegasort)
 The set of algorithms for sorting the elements of array in ascending order.
 - **InsertionSort**   
 Is a simple sorting algorithm that is relatively efficient for small lists and mostly sorted lists, and is often used as part of more sophisticated algorithms.
